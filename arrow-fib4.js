@@ -10,4 +10,4 @@ let fib = (a) => {
   }
   console.log("Fibonessi Series are  " + str);
 };
-console.log(fib(10));
+fib(10)
